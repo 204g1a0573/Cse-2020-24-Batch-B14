@@ -1,15 +1,16 @@
 # Domain : AI&ML
 ## Title : Student placement prediction using machine learning
 ### Abstract :
-*The rise of online education has brought forth new challenges in maintaining the integrity of remote examinations. To address this, automated proctoring systems have emerged, leveraging advanced technologies to monitor and detect unusual behaviors during online exams. This project focuses on developing an automated proctoring system that employs computer vision, machine learning, and behavioral analysis to identify behaviors such as impersonation, cheating, unauthorized device usage, and abnormal interactions with the exam environment. The system aims to provide real-time alerts to proctors or administrators, ensuring fair and secure online assessments while respecting privacy and minimizing false positives. This solution contributes to upholding the credibility of remote exams in the digital education landscape.*
+*The aim of this project is to analyze the standards of students and to predict the possibility of placement. It’s a student assessment on the basis of his academic skills, innovations, research and development capabilities. Doing this can help students as well as academics to boost students standards. Also it helps us to design our course and extra training on the basis of it for maximum benefit to students. 
+	Creating a dataset for this is not easy because motivating students to share their information is a challenging task. For the prediction of placement possibility we use the dataset prepared from the survey and different types of Naive Bayes Algorithm, which is a Supervised Machine Learning Algorithm. Naïve Bayes Classifier is one of the most effective and simplest algorithms to implement for supervised labeled dataset.*
 
 
 ## Team Members
  S.No| Name     | Email          |
  --| -------- | -------------- |
- **1**| Supraja | 204g1a05a5@srit.ac.in |
- **2**| yuva kishore | 204g1a05c6@srit.ac.in |
- **3**| Tarun kumar | 204g1a05b1@srit.ac.in|
- **4**| Raveendra |204g1a0580@srit.ac.in|
+ **1**| V.Prathyusha | 204g1a0573@srit.ac.in |
+ **2**| D.Nazeema | 204g1a0567@srit.ac.in |
+ **3**| N.Sathish babu | 204g1a0594@srit.ac.in|
+ **4**| R.Raj kiran |204g1a0576@srit.ac.in|
 
 <br>
